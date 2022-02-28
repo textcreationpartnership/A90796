@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The newest and best newes from Ireland. Being a true relation of a bloody battell, wherein 18000. of the rebells were slaine by the great valour of the English and Scots, under the command of the Right Honorable, the L. Dungarvan. Generall Lesley. Sir Simon Harcourt. Sir Wil. Coortee. Sir Charles Lucas. Mr. Francis Moore. Expressed in a letter sent from Colonel Plunquet, Lieutenant generall of the province of Lemster, to the Lord Phelom O-Neale, Generall of the Rebells. Lemster, February 13. 1641. The number of our men there slaine, is not yet certainly knowne.</title>
+            <author>Plunkett, Richard, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90796</idno>
+            <idno type="STC">Wing P2628</idno>
+            <idno type="STC">Thomason E134_36</idno>
+            <idno type="STC">ESTC R8189</idno>
+            <idno type="EEBO-CITATION">99873246</idno>
+            <idno type="PROQUEST">99873246</idno>
+            <idno type="VID">156424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156424)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The newest and best newes from Ireland. Being a true relation of a bloody battell, wherein 18000. of the rebells were slaine by the great valour of the English and Scots, under the command of the Right Honorable, the L. Dungarvan. Generall Lesley. Sir Simon Harcourt. Sir Wil. Coortee. Sir Charles Lucas. Mr. Francis Moore. Expressed in a letter sent from Colonel Plunquet, Lieutenant generall of the province of Lemster, to the Lord Phelom O-Neale, Generall of the Rebells. Lemster, February 13. 1641. The number of our men there slaine, is not yet certainly knowne.</title>
+                  <author>Plunkett, Richard, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cork, Richard Boyle, --  Earl of, 1566-1643 --  Early works to 1800.</term>
+               <term>O'Neill, Phelim, --  Sir, 1604?-1653 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156424:1"/>
+            <pb facs="tcp:156424:1" rendition="simple:additions"/>
+            <p>THE Neweſt and Beſt Newes FROM IRELAND.</p>
+            <p>Being a true Relation of a bloody Battell, wherein 18000. of the Rebells were ſlaine by the great Valour of the <hi>Engliſh</hi> and <hi>Scots,</hi> under the Command of the Right Honorable,
+<list>
+                  <item>The L. <hi>Dungarvan.</hi>
+                  </item>
+                  <item>Generall <hi>Leſley.</hi>
+                  </item>
+                  <item>Sir <hi>Simon Harcourt.</hi>
+                  </item>
+                  <item>Sir <hi>Wil. Coortee.</hi>
+                  </item>
+                  <item>Sir <hi>Charles Lucas.</hi>
+                  </item>
+                  <item>Mr. <hi>Francis Moore.</hi>
+                  </item>
+               </list>
+Expreſſed in a letter ſent from Colonel <hi>Plunquet,</hi> Lieutenant generall of the Province of <hi>Lemſter,</hi> to the Lord <hi>Phelim O-Neale,</hi> Generall of the Rebells.</p>
+            <p>Lemſter, February 13. 1641.</p>
+            <p>The number of our men there ſlaine, is not yet certainly knowne.</p>
+            <p>LONDON, Printed for <hi>R. C.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156424:2"/>
+            <pb facs="tcp:156424:2"/>
+            <head>THE Relation <hi>OF</hi> A Victorious Battell fought neere <hi>Dublin,</hi> by an Army of <hi>Engliſh</hi> and <hi>Scots,</hi> to the great terror and over<g ref="char:EOLhyphen"/>throw of the <hi>Rebells.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Render your Honour right hum<g ref="char:EOLhyphen"/>ble and hearty thankes for your good opinion of my merit and de<g ref="char:EOLhyphen"/>ſerving, and promoting mee ſo far uncapable and unworthy of that honourable place of truſt and authotity, to be your Honours Colonell Lieutenant generall of the Province of Lemſter; which place of truſt ſo committed to my care and fidedlity, I will to the beſt of my ability diſcharge, with all diligence and integrity. I am commanded humbly to preſent to your Honor, the pre<g ref="char:EOLhyphen"/>ſent eſtate of the Army; and what hath paſſed
+<pb facs="tcp:156424:3"/>
+ſince I had the honour and favour to bee Lieu<g ref="char:EOLhyphen"/>tenant: When firſt I came to my charge, I muſtred the Army, and framed to a poſture of warre, to defend that Province from the invaſion of our enemies, and to bee in a readi<g ref="char:EOLhyphen"/>neſſe upon occaſion to take the field againſt them. Since which time wee have made ma<g ref="char:EOLhyphen"/>ny incurſions and ſallies out upon our Ad<g ref="char:EOLhyphen"/>verſaries, by which good ſervice hath beene done. After which, according to your Ho<g ref="char:EOLhyphen"/>nours directions we led forth our Army into the Province of Dublin, where we encamped neere Dregheda; of which Towne, <hi>Charles</hi> Lord <hi>Moore</hi> is Lord Vicount; where at a Crete or Cottage, we placed Colonell <hi>Art Roe Mac Mahon,</hi> with about two thouſand men, a mile diſtance, or thereabouts from the Towne, and quartered the reſt of our Armie neere adiacent about the Towne: during the time of our encamping there, a Captaine of the Engliſh, Mr. <hi>Francis Moore,</hi> with a Troop of Horſe, and a company of Foot, made out of the Towne; and the day being very gloomy and miſty, wee could not diſcover them; by which opportunity they paſſed by us, and marched towards the Crete wherein was the ſaid Colonell <hi>Art Roe Mac Mahon,</hi> and his company, where they aſſaulted the ſame, and by misfortune tooke the ſaid Colonel, whom the ſaid <hi>Moore</hi> with his owne hand at an ad<g ref="char:EOLhyphen"/>vange,
+<pb facs="tcp:156424:3"/>
+ſlew, and divers other<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they tooke pri<g ref="char:EOLhyphen"/>ſoners: which was the gre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teſt loſſe wee have ſuſtained ſince I was there Commander, wee having obtained farre greater enterpriſes a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>From this place we with-drew our For<g ref="char:EOLhyphen"/>ces, and marched to ioyne with the whole bo<g ref="char:EOLhyphen"/>dy of the Army in the Province of Dublin, under the command of the right Honourable and noble Colonells and Captaines, the Lord <hi>Mount Garret, Mount Delvin, Don Luci, Mount Cargena, Mount Limbrey,</hi> and Captain <hi>Oneale,</hi> and others, which we happily atchie<g ref="char:EOLhyphen"/>ved, and were willingly and nobly entertained Then fell we all that were Officers into Con<g ref="char:EOLhyphen"/>ſultation of drawing up heads of our deſires and demands to the King concerning our Re<g ref="char:EOLhyphen"/>ligion and the government of this Kingdome, which wee at length concluded upon, and agreed to preſent the ſame to the Lords of the Councell in Dublin, by them to bee conſide<g ref="char:EOLhyphen"/>red of and tranſported by them into England, there to bee ratified and confirmed by the King and State there, as well as the State of this Kingdome, which ſince hath beene reie<g ref="char:EOLhyphen"/>cted; whereupon wee tooke the field, and ran<g ref="char:EOLhyphen"/>ked our Army in good order for battell, and then marched towards Dublin; but in the way were met with an Army of Engliſh and Scots, under the Command of the Lord <hi>Dun<g ref="char:EOLhyphen"/>garvan,</hi>
+               <pb facs="tcp:156424:4"/>
+Generall <hi>Leſle,</hi> Sir <hi>Simon Harcourt,</hi> Sir <hi>William Cootre,</hi> Sir <hi>Charles Lucas,</hi> and o<g ref="char:EOLhyphen"/>thers, which we could not avoid, but took the field, where was a moſt cruell battell fought between us, laſting two dayes, where we loſt Eighteene Thouſand men; but iuſtly wee cannot yet tell how many were ſlaine on the enemies part, which misfortunate ſlaughter much weakened our Army; yet were wee a<g ref="char:EOLhyphen"/>gaine much comforted, when we heard of ayde and Aſſiſtance comming to us from the King of Spaine, of Men, Ammunition and Money, in Seven ſhips of the <hi>Dunkerks;</hi> wee alſo have intelligence that ayde is comming from France, to helpe us, which wee earneſtly de<g ref="char:EOLhyphen"/>ſire; It alſo reioyceth us that his Holineſſe the Pope is not forgetfull, or unmindfull of our ſufferings, and the iuſtneſſe of our cauſe, and our prayers are daily for his in<g ref="char:EOLhyphen"/>creaſe in honour and glory, for his preſents ſent your Honors, and for his Banner ſent us to diſplay, which wee to the loſſe of our lives and fortunes will fight under, for the defence of our Religion, inſtituted and profeſſed by his Holineſſe, and Saint <hi>Peter.</hi>
+            </p>
+            <p>And thus may it pleaſe your Honors, I have informed you of the proceedings of us ſince I had the honor to be imployed in the ſervice of God, and the defence of our right<g ref="char:EOLhyphen"/>full priviledges and Liberties, under your Ho<g ref="char:EOLhyphen"/>nors
+<pb facs="tcp:156424:4"/>
+Wiſdome and Prudence, whom I wiſh and pray long may continue in your Hono<g ref="char:EOLhyphen"/>rable place of Government, to be the chiefeſt inſtrument of reducing our Religion and Lawes to their ancient glory, fame and re<g ref="char:EOLhyphen"/>nowne,</p>
+            <closer>
+               <dateline>
+                  <hi>Tudcaſter,</hi>
+                  <date>Febr. 12, An. Dom. 1641.</date>
+               </dateline>
+               <signed>Your Honors Moſt humble and obedient <hi>Servant, Plunquett.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
